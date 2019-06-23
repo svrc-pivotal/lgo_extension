@@ -29,9 +29,9 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.17",
-    "@jupyterlab/cells": "^0.17",
-    "@jupyterlab/notebook": "^0.17"
+    "@jupyterlab/application": ">=0.17",
+    "@jupyterlab/cells": ">=0.17",
+    "@jupyterlab/notebook": ">=0.17"
   },
   "devDependencies": {
     "rimraf": "latest",
